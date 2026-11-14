@@ -10,5 +10,9 @@ Récuperation cette fois des colonnes specifiques(nom,email) en utilisant des AL
 Etape:4<br>
 En utilisant la clause WHERE,on peut récuperer juste les enregistrements qui satisfie une condition , et ORDER BY pour trier les résultats:<br>
 <img width="663" height="129" alt="E4" src="https://github.com/user-attachments/assets/569b84af-d0af-4c62-ae49-cb4dff5c845f" /><br>
+Etape:5<br>
+Les Opérateurs de comparaison et les opérateurs logiques:<br>
+<img width="562" height="257" alt="E5" src="https://github.com/user-attachments/assets/0bcba3ce-45cd-4195-ae19-bd6d69a2c22d" /><br>
+
 
 
