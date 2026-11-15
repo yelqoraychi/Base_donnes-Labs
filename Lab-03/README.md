@@ -13,6 +13,22 @@ En utilisant la clause WHERE,on peut récuperer juste les enregistrements qui sa
 Etape:5<br>
 Les Opérateurs de comparaison et les opérateurs logiques:<br>
 <img width="562" height="257" alt="E5" src="https://github.com/user-attachments/assets/0bcba3ce-45cd-4195-ae19-bd6d69a2c22d" /><br>
+Etape:6<br>
+La recherche d'un chaine de caractére en utilisant le mot clé LIKE et % pour indiquer cette chaine.<br>
+<img width="445" height="135" alt="E6" src="https://github.com/user-attachments/assets/a74a1d60-0a8c-4d4c-b019-ea1d1bf9e0c0" /><br>
+Etape:7<br>
+En utilisant les mots clés IN NOT IN BETWEEN ...,On peut récuperer juste les donnés qui appartient à un intervalle.<br>
+<img width="559" height="326" alt="E7" src="https://github.com/user-attachments/assets/d5ac2e2b-6efc-4621-8d7a-9352d5d6861d" /><br>
+Etape:8<br>
+La gestion des valeurs nulls en utilisant IS NULL IS NOT NULL.<br>
+<img width="395" height="155" alt="E8" src="https://github.com/user-attachments/assets/d79b12b9-c677-4ede-836d-a3b0c31906bc" /><br>
+Etape:9<br>
+ORDER BY pour traiter la maniére de tri , et les fonctions d'aggrégation pour les statistiques (min,max;avg ...)
+et HAVING pour donner une condition aprés regroupement.<br>
+<img width="645" height="261" alt="E9" src="https://github.com/user-attachments/assets/cfa2b131-5c26-45f4-ae39-34fe3c6b80eb" />
+
+
+
 
 
 
